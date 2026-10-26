@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Victoria",
-  "generated_at": "2026-10-26T04:29:36",
-  "vehicle_count": 138,
+  "generated_at": "2026-10-26T04:33:35",
+  "vehicle_count": 137,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -732,17 +732,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota bZ Woodland ",
-      "vin": "JTMBGAHB6TY614685",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/new/dc82b8bc8c7a.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 64624.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota bZ XLE AWD",
       "vin": "JTMADAFBXTA012890",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/new/4f007f4d623e.html",
@@ -1168,7 +1157,7 @@
       "make": "Toyota",
       "model": "bZ",
       "condition": "new",
-      "price": 48572.0,
+      "price": 50717.0,
       "price_currency": "CAD"
     },
     {
