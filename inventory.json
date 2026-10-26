@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Victoria",
-  "generated_at": "2026-10-25T19:18:49",
-  "vehicle_count": 140,
+  "generated_at": "2026-10-25T19:22:43",
+  "vehicle_count": 137,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -787,17 +787,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla Cross LE AWD",
-      "vin": "7MUCAABG6TV208370",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/new/38ae09d89c86.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 36278.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Corolla Sedan LE CVT",
       "vin": "5YFB4MDE0TP168039",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/new/0902873355da.html",
@@ -941,17 +930,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota RAV4 ",
-      "vin": "2T36CRAVXTC047196",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/new/03c336b24e60.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "new",
-      "price": 41918.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Sienna ",
       "vin": "5TDGSKFC3TS291150",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/new/8d18602d5679.html",
@@ -1062,17 +1040,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra 4x4 Crewmax Limited",
-      "vin": "5TFWA5DB5TX443076",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/new/2e0eed816dee.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 92399.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Tundra 4x4 Crewmax Platinum",
       "vin": "5TFNA5DB5TX447043",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/new/83c976327fbc.html",
@@ -1135,7 +1102,7 @@
       "make": "Toyota",
       "model": "bZ",
       "condition": "new",
-      "price": 67142.0,
+      "price": 69629.0,
       "price_currency": "CAD"
     },
     {
