@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Victoria",
-  "generated_at": "2026-10-25T19:22:43",
-  "vehicle_count": 137,
+  "generated_at": "2026-10-26T04:29:36",
+  "vehicle_count": 138,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -182,7 +182,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Toyota Prius Top Package | Hard To Find | Great On Gas |",
+      "name": "2019 Toyota Prius | One Owner | Top Package |",
       "vin": "JTDKARFU5K3071409",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/used/f7d6c9fe6e0e.html",
       "year": 2019,
@@ -212,6 +212,17 @@
       "model": "EcoSport",
       "condition": "used",
       "price": 14995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Mazda CX-5 ",
+      "vin": "JM3KFBBL5L0746952",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-victoria-mirror/used/23d49586fecf.html",
+      "year": 2020,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
